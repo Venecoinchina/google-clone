@@ -1,0 +1,33 @@
+@media (max-width: 600px) {
+    
+    main .main-logo img {
+        width: 150px;   
+    }
+    main .main-input {
+        width: 280px;
+    }
+    main .main-input-container {
+        width: 280px;
+    }
+    main .main-input input {
+        width: 220px;
+    }
+    main .main-buttons {
+        width: 190px;
+    }
+    main .main-buttons button {
+        margin-right: 0;
+        align-items: center;
+        padding: 0 20px;
+        margin-bottom: 20px;
+    }
+    footer {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        align-items: center;
+        justify-items: center;
+        height: auto;
+        font-size: 1.2rem;
+    }
+}
